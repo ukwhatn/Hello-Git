@@ -3,9 +3,8 @@
 
 リモートリポジトリをつくった！
 
+"edit/README.md"へのCommit
+
 これはブラウザ上での編集です。
 
 
-"edit/README.md"へのCommit
-
-test
